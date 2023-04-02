@@ -1,0 +1,6 @@
+cya,See you later,Goodbye,I am Leaving Have a Good day	Sad to see you go :(,Talk to you later,Goodbye!
+what is your name?,your name,what should I call you?,whats your name?	You can call me SMART,I'm SMART!,I'm SMART aka GOD.,call me whatever you want.
+what is bank?,bank,boi,bankofindia,sbi,what do you mean by bank?	Banks are intermediaries between depositors (who lend  money to the bank) and borrowers (to whom the bank lends         money). The amount banks pay for deposits and the income they receive on their loans are both called interest.
+who is developer of this chatbot?,who developed you?,developer,your developer,developed by	vishal is my developer.,vishal
+hi,hello,hii,hlo,hllo,hlooo,hloo,halo,helo	 I can really feel your smile today.,Hi! It's delightful to see you.,hi what's up?,welcome back ,hi! how can i help you
+NATIONALITY,origin,location,developed  in,where you developed	India
